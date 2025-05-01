@@ -15,6 +15,7 @@ const config: Config = {
         foreground: "#000000",
         muted: "#777777",
         "muted-foreground": "#999999",
+        border: "#e2e2e2",
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],
